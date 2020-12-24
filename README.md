@@ -1,2 +1,2 @@
-# synchronous-ball-movement
-using real-time database firebase
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
